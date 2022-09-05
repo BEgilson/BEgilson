@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BEgilson
 - 👀 I’m interested in sports and coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email: Benonyegilson@gmail.com
 
 <!---
